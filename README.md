@@ -1,9 +1,9 @@
 # Hello World 👋
 
-I'm Kang Han, a student majoring in Computational Science and Technology.
+I'm Kang Han, a CS student | AI Explorer | Agent & Prompt Designer.
 
-- 🎓 B.S. at [Southwest University of Science and Technology](https://www.swust.edu.cn), 2022 - 2026.
-- 💼 Internship: Search Product Operations Intern at [月之暗面](#) (Feb 2025 - Apr 2025)
+- 🎓 [Southwest University](https://www.swust.edu.cn) - B.S.in Computer Science and Technology,6/2026.
+- 💼 Internship: [Moonshot AI](https://www.moonshot.cn/),Feb 2025 ->
 - 💻 Tech stack: Data Analysis & Visualization, Frontend Development, Programming (Python / C / C++)
   
 ---
